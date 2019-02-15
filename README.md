@@ -25,3 +25,8 @@ account on the Internet. Because the database is not well protected.
 * I can not take responsibility for any leakage of your data. If necessary,
 I can detect the source code built into the program to make sure that there are no
 malicious programs inside the program or that the program is uploading your database.
+# How can I check the trust of the program or trust you?
+* If you do not trust the program dont used it. 
+Also never trust anyone on the internet. But here I do not force you to use this program, 
+and with this program very secure, but I can not protect it from hacking or leaking data, 
+You protect it as best you can.
