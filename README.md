@@ -5,7 +5,7 @@
 
 
 v 1.00 (2019-02-15)
-first edition
+* **first edition**
 This software was released for personal use.
 After that I posted for free to anyone who wanted it
 # What is the function of the program?
