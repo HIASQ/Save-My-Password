@@ -1,9 +1,8 @@
 
  # Save-My-Password   
-## A program to save your data and passwords
-:floppy_disk:  
-![Screenshot](smp.jpg)
+## A program to save your data and passwords :floppy_disk:  
 
+![Screenshot](smp.jpg)
 
 v 1.00 (2019-02-15)
 * **first edition**
