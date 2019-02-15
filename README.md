@@ -7,7 +7,7 @@
 v 1.00 (2019-02-15)
 first edition
 This software was released for personal use.
-After that I posted for free online to anyone who wanted it
+After that I posted for free to anyone who wanted it
 # What is the function of the program?
 First I designed the program for personal use so that
 I can access all the website registered with it easily
