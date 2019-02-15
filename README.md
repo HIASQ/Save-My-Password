@@ -1,3 +1,4 @@
+
 # Save-My-Password
 ## A program to save your data and passwords
 
@@ -30,3 +31,8 @@ malicious programs inside the program or that the program is uploading your data
 Also never trust anyone on the internet. But here I do not force you to use this program, 
 and with this program very secure, but I can not protect it from hacking or leaking data, 
 You protect it as best you can.
+
+ ## ask yourself?
+- [x] use it!
+- [ ] dont use it!
+- [ ] mybe later!
