@@ -1,5 +1,5 @@
-![new game](ścieżka/do/pliku)
- # Save-My-Password   
+![# Save-My-Password](ścieżka/do/pliku)
+    
 ## A program to save your data and passwords :floppy_disk:  
 
 ![Screenshot](smp.jpg)
