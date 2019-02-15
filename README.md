@@ -1,5 +1,5 @@
 
-# Save-My-Password   :floppy_disk:
+:floppy_disk:   # Save-My-Password   
 ## A program to save your data and passwords
 
 ![Screenshot](smp.jpg)
