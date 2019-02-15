@@ -1,4 +1,4 @@
-![tekst alternatywny](ścieżka/do/pliku)
+![new game](ścieżka/do/pliku)
  # Save-My-Password   
 ## A program to save your data and passwords :floppy_disk:  
 
