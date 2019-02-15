@@ -1,6 +1,8 @@
 # Save-My-Password
 A program to save your data and passwords
 
+https://github.com/HIASQ/Save-My-Password/blob/master/smp.jpg?raw=true
+
 v 1.00 (2019-02-15)
 first edition
 This software was released for personal use.
