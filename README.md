@@ -1,4 +1,4 @@
-![# Save-My-Password](ścieżka/do/pliku)
+# Save-My-Password
     
 ## A program to save your data and passwords :floppy_disk:  
 
@@ -35,3 +35,6 @@ You protect it as best you can.
 - [x] use it!
 - [ ] dont use it!
 - [ ] mybe later!
+
+
+follow on twitter [HIASQ](https://twitter.com/HIASQ2)
