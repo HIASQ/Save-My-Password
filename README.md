@@ -4,6 +4,12 @@
 
 ![Screenshot](smp.jpg)
 
+
+```
+USER : ADMIN
+PASSWORD : 123
+```
+
 v 1.00 (2019-02-15)
 * **first edition**
 This software was released for personal use.
