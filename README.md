@@ -12,6 +12,20 @@ PASSWORD : 123
 
 v 1.00 (2019-02-15)
 * **first edition**
+
+# A New Release Is Available
+![Screenshot](https://img.shields.io/badge/SMP-V2-blue)
+![Screenshot](https://1.bp.blogspot.com/-et43NBLtw4E/XTs0MvzG5rI/AAAAAAAAAtM/c5Tg3ibqdMwnXF6bp4v2Xptv73eT8r5kgCLcBGAs/s1600/v2.png)
+```
+SAVE MY PASSWORD V0.2
+v 0.2 (2019-07-26)
+Second Edition
+* What's New
+1- Fix Some Errors
+2- Fix Some Errors When Trying To Save Data.
+3- Change the entire design.
+4- The Program Working More Efficiently Than The Old Version.```
+```
 This software was released for personal use.
 After that I posted for free to anyone who wanted it
 # What is the function of the program?
