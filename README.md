@@ -1,5 +1,7 @@
 # Save-My-Password
    :no_entry_sign: Warning: Do not put your secret numbers or password inside the program or even hint, I think the program facing a very serious problem.
+   Read [Issues](https://github.com/HIASQ/Save-My-Password/issues/1)
+   
 ## A program to save your data and passwords :floppy_disk:  
 * **first edition**
 v 1.00 (2019-02-15)
